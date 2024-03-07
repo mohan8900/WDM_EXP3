@@ -37,6 +37,8 @@ for each wear category.</p>
 8. Visulaize the sequence patterns using matplotlib.
 </p>
 ### Program:
+### NAME : A K MOHAN RAJ 
+### REG NO: 212221230064
 
 ```
 
